@@ -1,6 +1,6 @@
 from os import environ
 class Config(object):
-    API_ID = environ.get("API_ID", "5297888360 6963276348")
+    API_ID = environ.get("API_ID", "5297888360")
     API_HASH = environ.get("API_HASH", "6ec374e7e7492de06a9b22bb746bd20f")
     BOT_TOKEN = environ.get("BOT_TOKEN", "6922036916:AAHod6WEiUf70eq6ytG2P1uRrk6__uQ-xHU")
     STRING_SESSION = environ.get("STRING_SESSION", "")
