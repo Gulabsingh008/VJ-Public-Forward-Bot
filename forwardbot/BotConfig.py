@@ -4,7 +4,7 @@ class Config(object):
     API_HASH = environ.get("API_HASH", "6ec374e7e7492de06a9b22bb746bd20f")
     BOT_TOKEN = environ.get("BOT_TOKEN", "6922036916:AAHod6WEiUf70eq6ytG2P1uRrk6__uQ-xHU")
     STRING_SESSION = environ.get("STRING_SESSION", "")
-    SUDO_USERS = environ.get("SUDO_USERS", "6168162777 6366990600")
+    SUDO_USERS = environ.get("SUDO_USERS", "6168162777")
     COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "^/")
     HELP_MSG = """
     💢 **ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ɪɴ ᴛʜᴇ ʙᴏᴛ ᴀʀᴇ:**
