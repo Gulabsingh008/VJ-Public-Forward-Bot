@@ -2,9 +2,9 @@ from os import environ
 class Config(object):
     API_ID = environ.get("API_ID", "20870885")
     API_HASH = environ.get("API_HASH", "a7e1280d30225e7aa036d57a0c9bb929")
-    BOT_TOKEN = environ.get("BOT_TOKEN", "6922036916:AAHod6WEiUf70eq6ytG2P1uRrk6__uQ-xHU")
+    BOT_TOKEN = environ.get("BOT_TOKEN", "6516033859:AAHixZW3ZYmRSYOmy8M-it4b3-RXM9peTow")
     STRING_SESSION = environ.get("STRING_SESSION", "")
-    SUDO_USERS = environ.get("SUDO_USERS", "6168162777")
+    SUDO_USERS = environ.get("SUDO_USERS", "5297888360")
     COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "^/")
     HELP_MSG = """
     💢 **ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ɪɴ ᴛʜᴇ ʙᴏᴛ ᴀʀᴇ:**
